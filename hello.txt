@@ -6,6 +6,6 @@ from window 15:13
 from mac 15:21
 from mac 15:25
 from mac 15:38
-¨Ó¦Û·Å°«¤h 15:40
 from mac 15:43
 from mac 15:46
+from windows 15:45

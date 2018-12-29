@@ -1,4 +1,6 @@
 print('hello python & git')
-from windows 18:23
+だや旗胡
 from mac 18:38
+だや 18:39
 from mac 18:42
+だや 18:43

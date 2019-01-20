@@ -1,6 +1,0 @@
-print('hello python & git')
-だや旗胡
-from mac 18:38
-だや 18:39
-from mac 18:42
-だや 18:43
